@@ -1,3 +1,4 @@
+a = []
 class MyClass
   def initialize(name)
     @name = name
